@@ -14,3 +14,5 @@ const router = createRouter({
         { path: '/about',   component: AboutComponent }
     ]
 })
+
+export default router;
